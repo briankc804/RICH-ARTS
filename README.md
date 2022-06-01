@@ -45,3 +45,9 @@ As a user I would like to:
 - View the already uploaded images in the web app
 - Search images with categories
   
+BDD
+
+| Behavior      | Input description | Output description                            |
+| ------------- | ----------------- | --------------------------------------------- |
+| Upload image  | None              | The image will be posted to the home page     |
+| Search images | None              | Results will be displayed on the results page |
