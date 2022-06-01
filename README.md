@@ -72,4 +72,12 @@ The project has dependecies that require Django together with PIP. So make sure 
 - Installing Django
 
         $ python3.10.4 -m pip install Django
-        $ pip install pillow
+
+TECHNOLOGIES USED
+
+. Python3.10.4
+. Django
+. Bootstrap
+. Pip
+. Javascript        
+       
