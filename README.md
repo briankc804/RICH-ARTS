@@ -6,6 +6,10 @@ AUTHOR
 
 Written by Brian Kiplangat Cheruiyot
 
-Contact Information
+CONTACT INFORMATION
 
 email(briankc804@gmail.com)
+
+LIVE LINK
+
+view site here (https://kulaginger.herokuapp.com/)
