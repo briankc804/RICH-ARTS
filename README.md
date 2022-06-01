@@ -28,9 +28,20 @@ Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
 Create a Pull Request
 
-Installation
+INSTALLATION
 
 Clone the repository
 Create a virtual environment
 Install Django and other requirements in my requirements.txt file in your repository folder
 Run the IP address on the browser
+
+USER STORY
+
+These are the features that the application implements for use by a user.
+
+As a user I would like to:
+
+- Upload images to the web app
+- View the already uploaded images in the web app
+- Search images with categories
+  
