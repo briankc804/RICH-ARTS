@@ -27,3 +27,10 @@ Add changes to reflect the changes made
 Commit your changes (git commit -am 'Improve feature')
 Push to the branch (git push origin improve-feature)
 Create a Pull Request
+
+Installation
+
+Clone the repository
+Create a virtual environment
+Install Django and other requirements in my requirements.txt file in your repository folder
+Run the IP address on the browser
