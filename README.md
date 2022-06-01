@@ -57,4 +57,19 @@ PREREQUISITES
 
 REQUIREMENTS
 
-The project has dependecies that require Django together with PIP. So make sure you have these installed and working before proceeding. Can also refer from the technologies used below.
+The project has dependecies that require Django together with PIP. So make sure you have these installed and working before proceeding. 
+- python3.10.4
+- pip
+- virtual
+
+ RUNNING THE APP
+
+- Creating the virtual environment
+
+        $ python3.10.4 -m venv --without-pip env
+        $ source env/bin/activate
+
+- Installing Django
+
+        $ python3.10.4 -m pip install Django
+        $ pip install pillow
