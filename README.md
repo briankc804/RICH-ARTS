@@ -14,6 +14,10 @@ LIVE LINK
 
 view site here (https://kulaginger.herokuapp.com/)
 
+SCREENSHOT
+
+![](images/foldername%20screenshot.png)
+
 DEVELOPMENT
 
 Want to contribute? Great!
